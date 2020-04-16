@@ -11,7 +11,7 @@ public class GuessingGame {
         int guess = 0;
 
         System.out.println("I am thinking about a number between 1 and 10 ... ");
-        System.out.print("Can you guess it? ");
+        System.out.print("Can you guess it? or enter '-1' to quit: ");
 
 
         while(guess != -1){
