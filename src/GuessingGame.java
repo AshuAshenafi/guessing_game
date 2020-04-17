@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class GuessingGame {
+    int ashu = 0;
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
